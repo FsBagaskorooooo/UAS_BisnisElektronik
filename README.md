@@ -6,7 +6,7 @@
 |Fergiawan Satrio Bagaskoro|312210169|TI.22.B.1|Wahyu Hadikristanto, S.Kom., M.Kom.|
 
 # Link Website
-[Klik Disini](www.pakdejuice.shop)
+[Klik Disini](https://www.pakdejuice.shop/)
 
 ## Tampilan Dari Website Ecommerce PakdeJuice
 
